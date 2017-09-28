@@ -1,0 +1,25 @@
+p {
+  text-align: justify;
+}
+
+.list{
+  list-style-type:none
+}
+
+.accord {
+  border: 1px solid #ccc;
+  padding-top: 10px;
+  margin: 7px 0;
+}
+
+.tabs{
+  height:20%;
+  border: 1px solid black;
+}
+
+#Sports,#Science,#Politics{
+  display: block;
+}
+.tabcontents{
+  display: none;
+}
